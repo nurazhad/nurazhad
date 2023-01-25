@@ -1,4 +1,3 @@
-import Cursor from "./Componets/cursor/Cursor.js";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Homepage from "./Pages/Homepage.js";
 import About from "./Pages/About.js";
@@ -8,7 +7,6 @@ import Contact from "./Pages/Contact.js";
 function App() {
   return (
     <div>
-      <Cursor />
       <BrowserRouter>
         <Routes>
           const router = createBrowserRouter( createRoutesFromElements(

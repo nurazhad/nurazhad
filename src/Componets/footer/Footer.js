@@ -5,7 +5,7 @@ function Footer() {
     <div className="footer">
       <p>@copyright 2023</p>
       <p>
-        Designed & Built by <a href="https://github.com/Jainex17">Jainex</a>
+        Designed & Built by <a href="https://github.com/nurazad">Nendy</a>
       </p>
     </div>
   );

@@ -16,7 +16,7 @@ function Navbar() {
 
   return (
     <nav className="navbar">
-      <h1>Jainex Patel</h1>
+      <h1>Hi There </h1>
       <ul>
         <li>
           <Link to="/">Home</Link>
@@ -24,9 +24,9 @@ function Navbar() {
         {/* <li> */}
         {/* <Link to="/about">About</Link> */}
         {/* </li> */}
-        <li>
+        {/* <li>
           <Link to="/project">Projects</Link>
-        </li>
+        </li> */}
         <li>
           <Link to="/contact">Contact</Link>
         </li>

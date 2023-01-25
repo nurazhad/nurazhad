@@ -1,26 +1,23 @@
 import React from "react";
 import "./Profile.css";
 // import { Link } from "react-router-dom";
-const pfp = require("../../img/pfp4.jpeg");
-const resume = require("../../Documents/jainex_Resume.pdf");
+const fp = require("../../img/fp.jpg");
+const resume = require("../../Documents/nendy-portfolio.pdf");
 
 function MyProfile() {
   return (
     <div className="profile">
       <div className="profile-text">
         {/* <h1>Hi There, I'm Jainex Patel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt='wave'></img></h1> */}
-        <p>Hi, my name is</p>
-        <h1>Jainex Patel.</h1>
-        <h1>I build things for the web.</h1>
+        <h1>Nendy Azhad Nurahman</h1>
+        <h1>Web Developer.</h1>
         {/* <p>MERN stack developer</p> */}
         <p className="profile-text-about">
-          I have a strong passion for IT and technology, and I enjoy learning
-          new things in these fields. Recently, I have developed various
-          projects, which you can see in my profile.
+        Skilled Javascript on MERN fullstack Web Developer. Ability to learn and implement new technologies quickly. My skills include Javascript, NodeJs, ExpressJs, ReactJs, MongoDB, Mysql, Postgresql. 
         </p>
         <div className="profile-social-links">
           <a
-            href="https://github.com/jainex17"
+            href="https://github.com/nurazhad"
             target="_blank"
             rel="noopener noreferrer me"
             title="Github"
@@ -38,7 +35,7 @@ function MyProfile() {
             </svg>
           </a>
           <a
-            href="https://www.linkedin.com/in/jainex-patel17/"
+            href="https://www.linkedin.com/in/nendy/"
             target="_blank"
             rel="noopener noreferrer me"
             title="Linkedin"
@@ -64,7 +61,7 @@ function MyProfile() {
         </a>
       </div>
       <div className="profile-img">
-        <img src={pfp} alt="pfp"></img>
+        <img src={fp} alt="pfp"></img>
         <div className="img-shade"></div>
       </div>
     </div>
