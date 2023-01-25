@@ -27,14 +27,15 @@
   transition: 1s all ease;
   border-bottom: 1px solid white;
 }
-.navbar ul li button {
+.navbar ul button {
   background-color: transparent;
   border: none;
   margin: auto;
   cursor: pointer;
   width: 32px;
+  position: absolute;
 }
-.navbar ul li button svg {
+.navbar ul button svg {
   height: 18px;
   color: var(--light-navy);
   padding-top: 7px;

@@ -59,6 +59,9 @@ function MyProfile() {
         <a href={resume} target="_blank" rel="noreferrer">
           <button>Resume</button>
         </a>
+        <a href="mailto:azhadnurahmann@gmail.com">
+          <button>Contact Me</button>
+        </a>
       </div>
       <div className="profile-img">
         <img src={fp} alt="pfp"></img>
