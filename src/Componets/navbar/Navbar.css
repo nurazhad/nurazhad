@@ -70,7 +70,7 @@
     font-size: 20px;
   }
   .navbar ul {
-    display: none;
+    display:flexbox;
   }
   .navbar ul li {
     font-size: 10px;
@@ -79,7 +79,7 @@
     height: 14px;
   }
   .nav-menu-btn {
-    display: block;
+    display: flex;
   }
   .nav-menu-btn svg {
     background-color: var(--navy);

@@ -16,7 +16,7 @@ function Navbar() {
 
   return (
     <nav className="navbar">
-      <h1>Hi There </h1>
+      <h1>Hi There! </h1>
       <ul>
         <li>
           <Link to="/">Home</Link>
@@ -24,12 +24,12 @@ function Navbar() {
         {/* <li> */}
         {/* <Link to="/about">About</Link> */}
         {/* </li> */}
-        {/* <li>
-          <Link to="/project">Projects</Link>
-        </li> */}
         <li>
-          <Link to="/contact">Contact</Link>
+          <Link to="/project">Projects</Link>
         </li>
+        {/* <li>
+          <Link to="/contact">Contact</Link>
+        </li> */}
         <li>
           <button id="nightlightmode" onClick={nightlightmode}>
             <svg
