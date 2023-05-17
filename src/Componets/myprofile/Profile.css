@@ -141,9 +141,12 @@ a {
     flex-direction: column-reverse;
   }
   .profile .profile-text {
-    text-align: left;
+    text-align: center;
     padding: 15px 0 0 0;
     width: 90%;
+  }
+  .profile-text-about{
+    text-align: justify;
   }
   .profile .profile-text h1 {
     font-size: 30px;

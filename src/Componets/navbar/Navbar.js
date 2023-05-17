@@ -16,7 +16,7 @@ function Navbar() {
 
   return (
     <nav className="navbar">
-      <h1>Hi There! </h1>
+      <h1>Nendy </h1>
       <ul>
         {/* <li>
           <Link to="/">Home</Link>
