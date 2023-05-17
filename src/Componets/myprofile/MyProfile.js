@@ -1,7 +1,7 @@
 import React from "react";
 import "./Profile.css";
 // import { Link } from "react-router-dom";
-const fp = require("../../img/fp.jpg");
+const fp = require("../../img/fp2.jpg");
 const resume = require("../../Documents/nendy-portfolio.pdf");
 
 function MyProfile() {
