@@ -49,7 +49,7 @@ function MyProfile() {
             </svg>
           </a>
         </div>
-        <a href={resume} target="_blank" rel="noreferrer">
+        <a href={resume}>
           <button>Resume</button>
         </a>
         <a href="mailto:azhadnurahmann@gmail.com">
