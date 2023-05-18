@@ -9,7 +9,7 @@ function MyProfile() {
       <div className="profile-text">
         <h1>Hi There,
         </h1>
-        <h1>I'am Nendy Azhad</h1>
+        <h1>I am Nendy Azhad</h1>
         <h2>Web Developer.</h2>
         <p className="profile-text-about">
         Skilled Javascript on MERN fullstack Web Developer. Ability to learn and implement new technologies quickly. My skills include Javascript, NodeJs, ExpressJs, ReactJs, MongoDB, Mysql, Postgresql. 
