@@ -1,6 +1,5 @@
 import React from "react";
 import "./Profile.css";
-// import { Link } from "react-router-dom";
 const fp = require("../../img/fp2.jpg");
 const resume = require("../../Documents/nendy-portfolio.pdf");
 
@@ -8,12 +7,10 @@ function MyProfile() {
   return (
     <div className="profile">
       <div className="profile-text">
-        {/* <h1>Hi There, I'm Jainex Patel <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt='wave'></img></h1> */}
         <h1>Hi There,
         </h1>
         <h1>I'am Nendy Azhad</h1>
         <h2>Web Developer.</h2>
-        {/* <p>MERN stack developer</p> */}
         <p className="profile-text-about">
         Skilled Javascript on MERN fullstack Web Developer. Ability to learn and implement new technologies quickly. My skills include Javascript, NodeJs, ExpressJs, ReactJs, MongoDB, Mysql, Postgresql. 
         </p>
@@ -57,7 +54,6 @@ function MyProfile() {
             </svg>
           </a>
         </div>
-        {/* <a href={resume}><button>Resume</button></a> */}
         <a href={resume} target="_blank" rel="noreferrer">
           <button>Resume</button>
         </a>
