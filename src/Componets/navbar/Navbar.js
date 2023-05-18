@@ -16,20 +16,15 @@ function Navbar() {
 
   return (
     <nav className="navbar">
-      <h1>Nendy </h1>
-      <ul>
-        {/* <li>
+          <ul>
+          <li>
           <Link to="/">Home</Link>
-        </li> */}
-        {/* <li> */}
-        {/* <Link to="/about">About</Link> */}
-        {/* </li> */}
-        {/* <li>
-          <Link to="/project">Projects</Link>
-        </li> */}
-        {/* <li>
-          <Link to="/contact">Contact</Link>
-        </li> */}
+        </li>
+          <li>
+          <Link to="/">Projects</Link>
+        </li>
+      </ul>
+      <ul>
           <button id="nightlightmode" onClick={nightlightmode}>
             <svg
               id="moon"
@@ -70,7 +65,7 @@ function Navbar() {
               <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
             </svg>
           </button>
-      </ul>
+          </ul>
     </nav>
   );
 }
