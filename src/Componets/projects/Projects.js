@@ -1,6 +1,5 @@
 import React from "react";
 import "./Projects.css";
-const aksaranura = require("../../img/aksaranura.png")
 
 function Projects() {
   return (
