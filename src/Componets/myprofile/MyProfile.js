@@ -8,7 +8,7 @@ function MyProfile() {
     <div className="profile">
       <div className="profile-text">
         <h1>Nendy Azhad Nurahman</h1>
-        <h2>Fullstack Web Developer.</h2>
+        <h2>Fullstack Web Developer</h2>
         <div className="profile-social-links">
           <a
             href="https://github.com/nurazhad"
