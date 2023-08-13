@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e924f2ea.css",
+    "main.js": "/static/js/main.f6bb45d9.js",
+    "static/js/787.63434964.chunk.js": "/static/js/787.63434964.chunk.js",
+    "static/media/aksaranura.png": "/static/media/aksaranura.f38292dafd24838d7567.png",
+    "static/media/nendy-portfolio.pdf": "/static/media/nendy-portfolio.115ed5159c78861c7a5f.pdf",
+    "static/media/fp2.jpg": "/static/media/fp2.c1f442d16836b6605c8a.jpg",
+    "index.html": "/index.html",
+    "main.e924f2ea.css.map": "/static/css/main.e924f2ea.css.map",
+    "main.f6bb45d9.js.map": "/static/js/main.f6bb45d9.js.map",
+    "787.63434964.chunk.js.map": "/static/js/787.63434964.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e924f2ea.css",
+    "static/js/main.f6bb45d9.js"
+  ]
+}
